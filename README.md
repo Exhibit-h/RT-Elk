@@ -1,4 +1,4 @@
-# RT-Elk
+# Deploy ELK Stack on Virtual Machines in Microsoft Azure
 Monitor applications using a machine with ELK installed
 
 ## Automated ELK Stack Deployment
